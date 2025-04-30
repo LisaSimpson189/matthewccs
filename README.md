@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ## stats.
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticccs&hide_border=true&theme=github_dark_dimmed&custom_title=the%20languages" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisasimpson189" />
 </a>
-<a href="https://tcrf.net/Prerelease:Sonic_Mania">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mysticccs&hide_border=true&theme=github_dark_dimmed&show_icons=true&include_all_commits=true&custom_title=look%20at%20those%20details!!!" />
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lisasimpson189"/>
 </a>
